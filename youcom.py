@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-YOU_API_KEY = "ydc-sk-e05063d4b300a916-6NvsJ677bNiJDfZBpofqkzVoDh0023GT-ce434271"
+YOU_API_KEY = "mykeypi"
 SEARCH_URL = "https://ydc-index.io/v1/search"
 
 HEADERS_BROWSER = {
